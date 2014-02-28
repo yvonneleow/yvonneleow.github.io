@@ -1,4 +1,4 @@
-yvonneleow.github.io
-====================
+# YvonneLeow's home page
+----
 
-example repo and site for NICAR 2014. 
+Just a basic sample of GitHub.io pages. 
